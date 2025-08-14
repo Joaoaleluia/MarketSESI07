@@ -24,7 +24,7 @@ body{
     background-color: #f0ffffc5;
     width: 300px;
     height: 400px;
-    border: 6px solid green;
+    border: 6px solid red;
     border-radius: 10px;
     box-shadow: #090909 0px 8px 24px;
     display: flex;
@@ -43,7 +43,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 6px solid green;
+    border: 6px solid red;
     position: absolute;
     top: -1%;
     left: 50%;
@@ -53,7 +53,7 @@ body{
 
 .round .logo{
     font-size: 56px;
-    color: #da7305;
+    color: #da05af;
 }
 
 .wrap-input-label{
